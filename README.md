@@ -1,0 +1,1 @@
+<div>Тестирование разрабатываемого сайта https://github.com/Kuzmichev93/ReactApp, с помощью Selenium.</div>
